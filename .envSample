@@ -1,0 +1,5 @@
+MONGO_URI=mongodb+srv://username:password@cluster0.ictsizv.mongodb.net/
+TOKEN_SECRET=token-string
+DOMAIN=domain-link
+NODEMAIL_USER=nodeMail-userId
+NODEMAIL_PASS=nodeMail-password
